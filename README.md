@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 🌾 AgroShare – Farmer to Buyer Platform
 
 AgroShare is a role-based Spring Boot web application that connects farmers directly with buyers, ensuring fair trade and transparent transactions in agriculture. 🌱 🚀 Built with Spring Boot, Hibernate, Thymeleaf, and MySQL for a smooth, scalable, and secure experience.
@@ -66,3 +67,7 @@ spring.jpa.hibernate.ddl-auto=update
 # AgroShare
 AgroShare- A Farmer-to-Consumer Marketplace using Java and Spring boot
 >>>>>>> 255217531ceeaf8bff26d9a75763e755fa71d0d6
+=======
+# AgroShare
+AgroShare- A Farmer-to-Consumer Marketplace using Java and Spring boot
+>>>>>>> 47d0e96dc6fccddff6d6415ddb7c630ba8493b3e
